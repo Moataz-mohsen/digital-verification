@@ -14,7 +14,7 @@ Fast, simulation-ready and reusable structure
 2. 🔹 FIFO Verification using UVM
 Complete UVM-based verification environment for a FIFO module with constrained-random testing and coverage collection.
 
-##🔧 Features
+## 🔧 Features
 Full Universal Verification Methodology (UVM) testbench
 
 Includes sequencer, driver, monitor, scoreboard, and coverage
